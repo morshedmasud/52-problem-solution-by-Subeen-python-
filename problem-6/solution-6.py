@@ -12,4 +12,4 @@ while x < t:
         temp = n // 10
         n = temp
     print("Sum =",(lsd+msd),"\n")
-    x += 1g
+    x += 1
