@@ -4,7 +4,7 @@ x = 0
 while x < t:
     # Taking value of 'string' and also make a list using 'split' function
     string = input().split()
-    count += 1
+    count = 0
     # count every word in string and increce count value.
     for i in string:
         count += 1
