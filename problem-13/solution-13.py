@@ -14,4 +14,4 @@ while x < t:
     for i in range(2, n_len+1):
         fact = fact * i
     print("1/%d \n" %fact)
-    x += 1
+    x +=11
